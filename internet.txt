@@ -1,0 +1,208 @@
+A internet é o conjunto de redes de computadores que, espalhados por todas as regiões do planeta, conseguem trocar dados e mensagens utilizando um protocolo comum.
+
+Este protocolo compartilhado pela internet é capaz de unir vários usuários particulares, entidades de pesquisa, órgãos culturais, institutos militares, bibliotecas e empresas de todos os tipos em um mesmo acesso.
+
+Ela então é formada por computadores comuns e por outros especiais, chamados de servidores, que são máquinas com grande poder de processamento e conexões velozes. Os servidores são controlados por universidades, empresas e órgãos do governo.
+
+A internet traz uma extensa gama de recursos de informação e serviços, como os documentos inter-relacionados de hipertextos da World Wide Web (WWW), redes ponto-a-ponto (peer-to-peer) e infraestrutura de apoio a correios eletrônicos (e-mails).
+
+A internet também possui um alcance e uma abrangência ímpar, podendo auxiliar inclusive mídias eletrônicas e impressas, uma vez que uma informação pode ser acessada de qualquer lugar do mundo e a qualquer hora, por uma única pessoa.
+
+Atualmente é possível encontrar computadores ligados à Internet em quase todos os lugares (empresas, lares, escolas, universidades, clubes, igrejas, etc) do cotidiano. As pessoas que já utilizam esse meio de comunicação experimentam cada vez mais alterações em seu modo de vida por meio da internet.
+
+Seu nome tem origem inglesa, onde o termo inter significa "internacional" e net significa "rede", ou seja, "rede internacional". 
+
+O que é a Internet:
+
+A internet é o conjunto de redes de computadores que, espalhados por todas as regiões do planeta, conseguem trocar dados e mensagens utilizando um protocolo comum.
+
+Este protocolo compartilhado pela internet é capaz de unir vários usuários particulares, entidades de pesquisa, órgãos culturais, institutos militares, bibliotecas e empresas de todos os tipos em um mesmo acesso.
+
+Ela então é formada por computadores comuns e por outros especiais, chamados de servidores, que são máquinas com grande poder de processamento e conexões velozes. Os servidores são controlados por universidades, empresas e órgãos do governo.
+
+A internet traz uma extensa gama de recursos de informação e serviços, como os documentos inter-relacionados de hipertextos da World Wide Web (WWW), redes ponto-a-ponto (peer-to-peer) e infraestrutura de apoio a correios eletrônicos (e-mails).
+
+A internet também possui um alcance e uma abrangência ímpar, podendo auxiliar inclusive mídias eletrônicas e impressas, uma vez que uma informação pode ser acessada de qualquer lugar do mundo e a qualquer hora, por uma única pessoa.
+
+Atualmente é possível encontrar computadores ligados à Internet em quase todos os lugares (empresas, lares, escolas, universidades, clubes, igrejas, etc) do cotidiano. As pessoas que já utilizam esse meio de comunicação experimentam cada vez mais alterações em seu modo de vida por meio da internet.
+
+Seu nome tem origem inglesa, onde o termo inter significa "internacional" e net significa "rede", ou seja, "rede internacional". 
+
+História da internet
+
+Ainda que a internet tenha um tempo de vida e uma história relativamente breves, ela se revela como um grande fator de comunicação, integração social e armazenamento de dados e informações de todos os tipos, além da globalização de produtos.
+
+A origem da internet é datada pelos idos de 1960, quando os Estados Unidos encomendou uma pesquisa para construir uma forma de comunicação robusta e sem falhas através de redes de computadores.
+
+Embora este trabalho, juntamente com projetos no Reino Unido e na França, tenha levado a criação de redes precursoras importantes, ele não criou a internet de fato.
+
+Entretanto, ela surgiu oficialmente em 1993, onde deixou de ser utilizada apenas por governos e de natureza acadêmica, e passou a estar presente nos diversos segmentos de empresas, residências, e etc. As conexões para acessar a internet também evoluíram muito com o passar dos anos, tornando-a cada vez mais rápidas e práticas.
+
+No período entre a década de 1990 e o início dos anos 2000, notou-se um rápido crescimento do uso da internet, por conta das inovações tecnológicas que foram sendo criadas a partir dela.
+
+A grande maioria destas inovações permite cada vez mais a troca de informações e mensagens instantâneas em uma velocidade de segundos.
+
+A internet é uma grande rede de computadores. Na verdade ela é uma conjunto de redes que se conectam entre si formando uma imensa teia que possibilita que de qualquer lugar do mundo você possa conectar com outros computadores em qualquer parte do planeta.
+
+Para entender melhor o que são essas redes de computadores, precisamos compreender alguns elementos necessários para que tudo funcione bem. Esses elementos são: Os computadores, o protocolo TCP/IP, os sistemas de comunicação e os programas de computadores destinados ao uso na internet.
+Computadores
+
+Os computadores, sejam eles desktops, notebooks, aparelhos móveis, etc, são origens e o destinos de todas as transações feita na internet. Em outras palavras, eles estão nas duas pontas, de um lado um computador faz uma requisição (solicitação de uma página web, por exemplo) e do outro lado um computador responde a esta solicitação (mostrando a página ou dizendo que ela não existe, por exemplo)
+
+O site que você acessa, o e-mail que envia, a conversa no MSN, etc. Tudo exige um computador ou servidor para armazenar essas informações para que elas sejam acessadas ou usadas em qualquer momento.
+
+Protocolo TCP/IP é um conjunto de protocolos de comunicação que tem por função identificar os computadores de uma forma única. Desta forma, quando você conecta seu computador à internet, ele recebe um número de IP, esse número é único e desta forma os sistemas de comunicação podem identificar seu computador permitindo enviar e receber informações sem correr o risco de enviar uma coisa e receber outra.
+
+O número do IP é formado por quatro grupos, sendo que cada grupo identifica uma rede, sendo que o primeiro grupo identifica a rede maior e os demais as redes menores ou subordinadas. Um exemplo de IP seria: 186.250.215.5
+
+Se por algum motivo precisar saber qual é o número do IP que foi atribuído à sua conexão, você poderá usar o site www.meuip.com.br. Basta acessá-lo para ele mostrar qual IP você está usando.
+Sistemas de Comunicação
+
+Os sistemas de telecomunicação são os transmissores de toda a informação que circula na internet. No Brasil sistemas da Embratel, Telefônica, Brasil Telecom, entre outras são os principais responsáveis pelo transporte das informações.
+
+O modelo é parecido com o telefone, diferenciando que na internet são trafegados dados, enquanto que para os telefones o tráfego é de voz.
+Programas de Computadores
+
+Alguns programas foram desenvolvidos justamente para serem usados na internet. Esses programas não são a internet, como alguns usuários novatos imaginam, mas usam a internet para desempenharem o fim para que foram programados. Os principais programas são:
+
+Navegadores: Internet Explorer, Firefox, Chrome, Safari, Opera, entre outros.
+
+Programas de e-mail: Outlook Express, Windows Mail, Windows Live, etc.
+
+Comunicadores instantâneos: MSN Messenger, Google Talk, Skype, etc.
+
+Outros: Programa do Imposto de Renda, Sistemas de Empresas para envio de cobranças para  o banco ou informações para a Receita Federal, entre outros.
+
+Internet e web é a mesma coisa? Não. Como explicado acima, internet é o todo, envolvendo todas as aplicações. Já a web é uma dessas aplicações da internet. A web é o ambiente onde fica os websites e documentos que podem ser acessados por um navegador qualquer. Ela é a maior aplicação da internet e para muitos é sinônimo de internet, embora na prática vemos que são coisas distintas.
+
+A Internet é um grande conjunto de redes de computadores interligadas pelo mundo inteiro; de forma integrada viabilizando a conectividade independente do tipo de máquina que seja utilizada, que para manter essa multi-compatibilidade se utiliza de um conjunto de protocolos e serviços em comum, podendo assim, os usuários a ela conectados usufruir de serviços de informação de alcance mundial.
+A comunicação via Internet pode ser de diversos tipos:
+
+Dados
+Voz
+Vídeo
+Multimídia
+
+Devido a recursos cada vez mais "pesados", uma maior velocidade das transmissões torna-se cada vez mais necessária.
+
+O "caminho" percorrido por um pacote de dados, a título de exemplo, nem sempre segue da fonte direto ao destino, pelo contrário, isto é até bem raro. Mais comum, são os dados percorrerem caminhos diversos, passando por n computadores até o destino, visando sempre o menor trajeto; apesar disto, o processo é bem rápido.
+
+Com a aparição e uso mais difundido das Intranet's, integrando redes internas de grandes empresas com a Internet, a utilização da mesma vem sendo cada vez mais diversificada.
+Com a expansão do uso, causado pelo grande Boom da Internet nos últimos anos - até em grande parte um modismo - todos os usuários vêm sofrendo com as sobrecargas de informação nos horários de grande utilização (conhecidos como "gargalos"); resta apenas a dúvida sobre até quando a Internet, como nós conhecemos hoje, vai sobreviver. - A Internet II já está em fase de teste para implantação.
+
+História da Internet
+
+A Internet surgiu a partir de um projeto da agência norte-americana Advanced Research and Projects Agency (ARPA) objetivando conectar os computadores dos seus departamentos de pesquisa. A Internet nasceu à partir da ARPANET, que interligava quatro instituições: Universidade da Califórnia, LA e Santa Bárbara; Instituto de Pesquisa de Stanford e Universidade de Utah, tendo início em 1969.
+
+Os pesquisadores e estudiosos do assunto receberam o projeto à disposição, para trabalhar. Deste estudo que perdurou na década de 70, nasceu o TCP/IP (Transmission Control Protocol / Internet Protocol), grupo de protocolos que é a base da Internet desde aqueles tempos até hoje.
+
+A Universidade da Califórnia de Berkley implantou os protocolos TCP/IP ao Sistema Operacional UNIX, possibilitando a integração de várias universidades à ARPANET.
+Nesta época, início da década de 80, redes de computadores de outros centros de pesquisa foram integrados à rede da ARPA. Em 1985, a entidade americana National Science Foundation (NSF) interligou os supercomputadores do seu centro de pesquisa, a NSFNET, que no ano seguinte entrou para a ARPANET. A ARPANET e a NSFNET passaram a ser as duas espinhas dorsais (backbone) de uma nova rede que junto com os demais computadores ligados a elas, era a INTERNET.
+
+Dois anos depois, em 1988, a NSFNET passou a ser mantida com apoio das organizações IBM, MCI (empresa de telecomunicações) e MERIT (instituição responsável pela rede de computadores de instituições educacionais de Michigan), que formaram uma associação conhecida como Advanced Network and Services (ANS).
+
+Em 1990 o backbone ARPANET foi desativado, criando-se em seu lugar o backbone Defense Research Internet (DRI); em 1991/1992 a ANSNET, que passou a ser o backbone principal da Internet; nessa mesma época iniciou-se o desenvolvimento de um backbone europeu (EBONE), interligando alguns países da Europa à Internet.
+
+A partir de 1993 a Internet deixou de ser uma instituição de natureza apenas acadêmica e passou a ser explorada comercialmente, tanto para a construção de novos backbones por empresas privadas (PSI, UUnet, Sprint,...) como para fornecimento de serviços diversos, abertura essa a nível mundial.
+
+Como Funciona a Internet
+
+Uma das dúvidas mais freqüentes sobre a Internet é: quem controla seu funcionamento? É inconcebível para a maioria das pessoas que nenhum grupo ou organização controle essa ampla rede mundial. A verdade é que não há nenhum gerenciamento centralizado para a Internet. Pelo contrário, é uma reunião de milhares de redes e organizações individuais, cada uma delas é administrada e sustentada por seu próprio usuário. Cada rede colabora com outras redes para dirigir o tráfego da Internet, de modo que as informações possam percorrê-las. Juntas, todas essas redes e organizações formam o mundo conectado da Internet. Para que redes e computadores cooperem desse modo, entretanto, é necessário que haja um acordo geral sobre alguns itens como procedimentos na Internet e padrões para protocolos. Esses procedimentos e padrões encontram-se em RFCs (requests for comment ou solicitações para comentários) sobre os quais os usuários e organizações estão de acordo.
+
+Diversos grupos orientam o crescimento da Internet ajudando a estabelecer padrões e orientando as pessoas sobre a maneira adequada de usar a Internet. Talvez o mais importante seja a Internet Society, um grupo privado sem fins lucrativos. 
+
+Enquanto essas organizações são importantes como um tipo de "cola" para manter a Internet unida, no coração da Internet estão redes locais individuais. Essas redes podem ser encontradas em empresas privadas, universidades, agências governamentais e serviços comerciais. São fundadas separadamente uma das outras através de várias formas, como taxas de usuários, suporte de associados, impostos e doações.
+
+As redes são conectadas de vários modos. Para fins de eficiência, as redes locais unem-se em consórcios conhecidos como redes regionais. Uma variedades de linhas arrendadas conectam redes regionais e locais.
+
+As linhas arrendadas que conectam redes podem ser tão simples como uma única linha telefônica ou tão complexas com um cabo de fibra ótica com enlaces de microondas e transmissões de satélite.
+
+Backbones (alicerces) - linhas de capacidade extremamente alta - transportam grandes quantidades tráfego da Internet. Esses backbones são sustentados por agências governamentais e por corporações privadas. Alguns backbones são mantidos pela National Science Foundation.
+
+Como a Internet é uma organização livre, nenhum grupo a controla ou a mantém economicamente. Pelo contrário, muitas organizações privadas, universidades e agências governamentais sustentam ou controlam parte dela. Todos trabalham juntos, numa aliança organizada, livre e democrática. Organizações privadas, variando desde redes domésticas até serviços comerciais e provedores privados da Internet que vendem acesso à Internet.
+
+O governo federal sustenta alguns backbones de alta velocidade que transportam o tráfego da Internet pelo país e pelo mundo, através de agências como o National Science Foundation. O vBNS extremamente rápido (very high-speed Backbone Network Services), por exemplo, fornece uma infra-estrutura de alta velocidade para a comunidade da pesquisa e educação unindo centros de supercomputadores e que possivelmente, também fornecerá um backbone para aplicações comerciais.
+
+Redes regionais fornecem e mantêm acesso dentro de uma área geográfica. Redes regionais podem consistir de pequenas redes e organizações dentro da área que se uniram para oferecer um serviço melhor.
+
+Os Centros de Informações em Rede (Network Information Centers), ou NICs, ajudam as organizações a utilizar a Internet. O InterNIC, uma organização mantida pela National Science Foundation, auxilia os NICs em seu trabalho.
+
+O Internet Registry registra os endereços e conexões entre endereços e nomes de referências. Os nomes de referências são nomes fornecidos às redes conectadas à Internet.
+
+A Internet Society é uma organização privada, sem fins lucrativos, que elabora recomendações tecnológicas e de arquitetura pertinentes à Internet, como sobre como os protocolos TCP/IP e outros protocolos da Internet devem funcionar. Esse órgão orienta a direção da Internet e seu crescimento.
+
+Os provedores de serviços da Internet vendem conexões mensais à Internet para as pessoas. Eles controlam seus próprios segmentos da Internet e também podem fornecer conexões de longa distância chamadas backbones. As companhias telefônicas também podem fornecer conexões de longa distância à Internet.
+
+Por que a palavra "internet" ?
+"Network" é uma palavra inglesa que significa "rede".
+Interligando todas as redes do mundo (militares, universidades, governos, empresas, prestadores de serviços, etc), obtemos uma rede gigante que cobre uma grande parte do planeta.
+"Internet" = "Inter-redes"
+
+Internet é a interconexão de todas as redes do planeta.
+
+Todo mundo em pé de igualdade
+O princípio da internet é que, uma vez conectado, você se encontra em pé de igualdade com os outros: Cada computador conectado tem um endereço exclusivo (chamado de endereço IP) e pode enviar e receber informações para/de qualquer outro computador.
+
+A Internet não faz qualquer discriminação.
+
+As distâncias não teem nenhuma importância: Você pode enviar algo para Taiwan ou para o seu vizinho, o preço é o mesmo.
+
+(A única diferença é que a informação que vai demorar um pouco mais para chegar em Taiwan).
+
+A Internet só serve para transportar os seus dados até o computador de sua escolha.
+Ela não fornece nenhum outro serviço.
+
+Você é livre para fazer o que quiser.
+
+Claro que um grande número de aplicações foram implementadas para tornar a Internet mais prática.
+
+A única desigualdade é a velocidade da qual você dispõe.
+Internet não se limita às páginas web !
+A aplicação mais conhecida da internet é o HTTP: São as páginas web que você vê no seu navegador (ou browser).
+O protocolo HTTP (utilizado pelo seu browser) utiliza a Internet para transportar páginas HTML, imagens (JPEG, GIF, etc), músicas (MP3, etc), vídeos ...
+
+Mas a internet não se limita às páginas web!
+
+    O protocolo DNS encontra um endereço IP de acordo com o nome do computador (como um catálogo).
+    O protocolo FTP transporta arquivos de um computador para outro.
+    O protocolo IRC cria "salas" de discussão ao vivo.
+    O protocolo ICQ ajuda a saber se alguém está on-line e de dialogar com ele.
+    O protocolo NTP define a hora dos computadores, pela internet, com uma margem de erro de 500 milisegundos.
+    Os protocolos P2P compartilham arqivos em grande escala.
+    O protocolo NNTP acessa fóruns de discussão sobre milhões de temas diferentes.
+    O protocolo SSH ajuda a ter acesso seguro a comutadores remotos.
+    O protocolo SMTP envia e-mails e o protocolo POP3 os recebe.
+    Outros protocolos permitem de usar como telefone ou videoconferência.
+    etc.
+
+
+
+Diz-se que eles são transportados por IP (na verdade, é o protocolo IP, que é responsável pelo transporte de pacotes de dados até o destino).
+
+E como a Internet é igualitária, ele concorda em transportar qualquer protocolo, desde que você use o protocolo IP.
+
+Isso significa que você pode desenvolver seu próprio protocolo. Internet vai concordar em transportar os seus dados sem nenhum problema.
+
+
+Você pode inventar protocolos e usá-los para se comunicar (desde que o seu correspondente compreenda o protocolo que você inventou).
+
+É muito mais simples do que parece: você pode fazer um programa que dialogue, pela internet, com outro programa, em poucas linhas de código.
+
+O futuro da internet
+Os inventores da Internet nunca poderiam imaginar todos os aplicativos que existem hoje na internet.
+
+Alguns projetos querem até conectar todos os aparelhos, entre eles, pela Internet: equipamentos hi-fi, , geladeira, casa, registro elétrico, aquecimento central, câmera...
+
+É o protocolo IP (Internet Protocol) que é utilizado na Internet e que permite que as máquinas se comuniquem entre elas. Atualmente ele está na versão 6 (mais conhecido como IPv6).
+
+É por esta razão, que uma nova versão de IP está sendo desenvolvida: IPv6.
+Atualmente, uma rede de teste para IPv6 está montado nos Estados Unidos e em alguns grandes empresas teem acesso para testar e desenvolver aplicações. Esta rede é chamada de Internet2.
+
+Mas o IPv6 não é compatível com o IPv4.
+
+Um dia todos nós vamos alternar para o IPv6 para beneficiar destas inovações.
+
+Eu presumo que os fornecedores de acesso vão propor uma transição gradual para seus assinantes, e todo mundo se submeterá, gradualmente.
+
+Nossos sistemas operacionais (Windows, Linux, MacOS X, etc) já são, na maioria das vezes, capazes de entender o IPv6. Teremos que atualizar nossos softwares (navegadores, softwares de e-mail, etc) e instalar versões que suportam IPv6, a fim de desfrutar. 
+
